@@ -1,4 +1,4 @@
-Helloworld::Application.routes.draw do
+Projectzero::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

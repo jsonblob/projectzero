@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Helloworld::Application.config.secret_token = '63719f32aab90c0393d99242878395bbe54d36c37939e4e35a362184a01e7ba75b998580b627a08ae793a37c874e39bf063c0dfe3f61739c95538383c93cefcc'
+Projectzero::Application.config.secret_token = '50e1a0fee6a39f9d50a2b939b94154315f55cd8b8aee60c4660e587cb9971fe68bd415fe258735714cc4c19a3a8c6b80eb1fc3ea3d25ce85ff104fb915b5f121'

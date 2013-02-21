@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Helloworld::Application.load_tasks
+Projectzero::Application.load_tasks
